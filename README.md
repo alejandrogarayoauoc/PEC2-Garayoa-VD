@@ -1,5 +1,5 @@
 # PEC 2-Visualización de datos
-Trabajo realizado por Alejandro garayoa Casado como parte de la PEC 2 de la asignatura de **visualización de datos** en el máster en Ciencia de Datos por la UOC.
+Trabajo realizado por Alejandro Garayoa Casado como parte de la PEC 2 de la asignatura de **visualización de datos** en el máster en Ciencia de Datos por la UOC.
 
 ## Estructura del proyecto
 Toda la estructura se encuentra en la carpeta ``/src``, conteniendo los notebooks con cada visualización y los datos usados en la carpeta ``/data``, de la siguiente forma:
