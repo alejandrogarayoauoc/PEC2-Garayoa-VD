@@ -9,6 +9,7 @@ Toda la estructura se encuentra en la carpeta ``/src``, conteniendo los notebook
 │   ├── beeswarm.ipynb
 │   ├── histograma.ipynb
 │   ├── isotype.ipynb
+│   ├── isotype.png (imagen producida con isotype.ipynb, guardada ya que github no es capaz de renderizarla)
 │   └── datos
 │       ├── censo_animales.xlsx
 │       ├── sigma_cabs.csv
